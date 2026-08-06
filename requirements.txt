@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+requests
+pillow
+transformers
+torch --extra-index-url https://pytorch.org
+
